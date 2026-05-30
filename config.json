@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfonnect",
+        "uuid": 8341452,
+        "checksum": "slzw7n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
